@@ -80,7 +80,7 @@ Evaluate a user-provided input string for jailbreak or prompt injection risks.
 
 ## 💡 Technical Considerations
 
-**Memory Usage:** Large models require significant memory; ensure sufficient GPU resources are available if applicable.
+**Memory Usage:** Large models require significant memory; ensure sufficient GPU resources are available if applicable. You will need at least 32 GiB VRAM to work on the same pipeline. But you may use different models for your GPU VRAM capacity, this is just a demo of how pipeline is being used.
 
 **Customization:** Moderation thresholds and settings can be tailored to fit different applications.
 

@@ -1,0 +1,2 @@
+# Local-LLM-Moderation-and-Generation-Pipeline-Using-LLaMA-and-Custom-Safety-Models
+This repository presents a fully local pipeline for controlled text generation using LLMs. The system employs the LLaMA-3.1-8B-Instruct model for text generation, integrated with a Prompt Guard model to detect jailbreak and prompt injection attempts, and a Llama Guard model for classifying and moderating potentially unsafe output.

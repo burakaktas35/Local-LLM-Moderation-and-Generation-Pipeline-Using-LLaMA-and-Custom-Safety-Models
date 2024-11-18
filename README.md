@@ -34,6 +34,7 @@ This project offers a fully local LLM pipeline for controlled text generation, f
 
 Ensure you have the required models downloaded locally and accessible to your hardware.
 
+After setting up models locally, you will need to change a file inside ```meta-llama/Llama-Guard-3-8B``` model. ```tokenizer_config.json``` file needs to be replaced as provided in repository. This is because, the usage differences. If you want you use it as in the code provided, then you have to change.
 
 ## 📈 Advantages
 
